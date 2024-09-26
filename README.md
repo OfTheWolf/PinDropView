@@ -10,8 +10,8 @@ Demo app for [PinDropViewDemo](https://github.com/OfTheWolf/PinDropViewDemo)
 <th>Customized</th>
 </tr>
   <tr>
-    <th><img src='./images/demo1.png' height='500'></th>
-    <th><img src='./images/demo2.png' height='500'></th>
+    <th><img src='https://github.com/OfTheWolf/PinDropViewDemo/blob/main/images/demo1.png' height='500'></th>
+    <th><img src='https://github.com/OfTheWolf/PinDropViewDemo/blob/main/images/demo2.png' height='500'></th>
   </tr>
 </table>
 
